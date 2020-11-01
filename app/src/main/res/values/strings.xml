@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mychatapp2</string>
+    <string name="send">Send</string>
+    <string name="enter_your_text_here">Enter your text here</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="register">Register</string>
+    <string name="login" />
+    <string name="btn_login">login</string>
+    <string name="Login">Login</string>
+    <string name="ourchatapp">OurChatApp</string>
+    <string name="Register">Register</string>
+    <string name="login1">Login</string>
+    <string name="logout">Logout</string>
+</resources>
